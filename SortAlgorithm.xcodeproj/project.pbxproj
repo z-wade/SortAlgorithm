@@ -16,6 +16,7 @@
 		473E8E4B2129786A009B6934 /* BaseAlgorithm.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E4A2129786A009B6934 /* BaseAlgorithm.swift */; };
 		473E8E4D212978EC009B6934 /* BubbleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E4C212978EC009B6934 /* BubbleSort.swift */; };
 		473E8E4F2129AEEB009B6934 /* SelectionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E4E2129AEEB009B6934 /* SelectionSort.swift */; };
+		473E8E512129BE0E009B6934 /* InsertionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E502129BE0E009B6934 /* InsertionSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -42,6 +43,7 @@
 		473E8E4A2129786A009B6934 /* BaseAlgorithm.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BaseAlgorithm.swift; sourceTree = "<group>"; };
 		473E8E4C212978EC009B6934 /* BubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleSort.swift; sourceTree = "<group>"; };
 		473E8E4E2129AEEB009B6934 /* SelectionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionSort.swift; sourceTree = "<group>"; };
+		473E8E502129BE0E009B6934 /* InsertionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				473E8E4A2129786A009B6934 /* BaseAlgorithm.swift */,
 				473E8E4C212978EC009B6934 /* BubbleSort.swift */,
 				473E8E4E2129AEEB009B6934 /* SelectionSort.swift */,
+				473E8E502129BE0E009B6934 /* InsertionSort.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -217,6 +220,7 @@
 				473E8E2C21297700009B6934 /* ViewController.swift in Sources */,
 				473E8E4B2129786A009B6934 /* BaseAlgorithm.swift in Sources */,
 				473E8E2A21297700009B6934 /* AppDelegate.swift in Sources */,
+				473E8E512129BE0E009B6934 /* InsertionSort.swift in Sources */,
 				473E8E4D212978EC009B6934 /* BubbleSort.swift in Sources */,
 				473E8E4F2129AEEB009B6934 /* SelectionSort.swift in Sources */,
 			);

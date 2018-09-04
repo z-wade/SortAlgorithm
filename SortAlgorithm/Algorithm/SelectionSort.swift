@@ -23,12 +23,14 @@ class SelectionSort: BaseAlgorithm {
         
         //优化版本一
         for i in 0...array.count-1 {
+            var minIndex = i
             for j in i+1..<array.count {
-                var minIndex = i
                 if array[minIndex] > array[j] {
                     minIndex = j
                 }
-                
+            }
+            
+            if minIndex != i {
                 let temp = array[i]
                 array[i] = array[minIndex]
                 array[minIndex] = temp

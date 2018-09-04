@@ -10,7 +10,7 @@ import UIKit
 
 class BaseAlgorithm {
     
-    private var data: [Int]
+    var data: [Int]
     
     required init(array: [Int]? = nil) {
         if let a = array {
