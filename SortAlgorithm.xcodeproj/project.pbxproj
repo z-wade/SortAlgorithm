@@ -17,6 +17,7 @@
 		473E8E4D212978EC009B6934 /* BubbleSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E4C212978EC009B6934 /* BubbleSort.swift */; };
 		473E8E4F2129AEEB009B6934 /* SelectionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E4E2129AEEB009B6934 /* SelectionSort.swift */; };
 		473E8E512129BE0E009B6934 /* InsertionSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E502129BE0E009B6934 /* InsertionSort.swift */; };
+		479F1317213ED9F0001E8F46 /* QuickSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 479F1316213ED9F0001E8F46 /* QuickSort.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		473E8E4C212978EC009B6934 /* BubbleSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BubbleSort.swift; sourceTree = "<group>"; };
 		473E8E4E2129AEEB009B6934 /* SelectionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SelectionSort.swift; sourceTree = "<group>"; };
 		473E8E502129BE0E009B6934 /* InsertionSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InsertionSort.swift; sourceTree = "<group>"; };
+		479F1316213ED9F0001E8F46 /* QuickSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuickSort.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -112,6 +114,7 @@
 				473E8E4C212978EC009B6934 /* BubbleSort.swift */,
 				473E8E4E2129AEEB009B6934 /* SelectionSort.swift */,
 				473E8E502129BE0E009B6934 /* InsertionSort.swift */,
+				479F1316213ED9F0001E8F46 /* QuickSort.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -219,6 +222,7 @@
 			files = (
 				473E8E2C21297700009B6934 /* ViewController.swift in Sources */,
 				473E8E4B2129786A009B6934 /* BaseAlgorithm.swift in Sources */,
+				479F1317213ED9F0001E8F46 /* QuickSort.swift in Sources */,
 				473E8E2A21297700009B6934 /* AppDelegate.swift in Sources */,
 				473E8E512129BE0E009B6934 /* InsertionSort.swift in Sources */,
 				473E8E4D212978EC009B6934 /* BubbleSort.swift in Sources */,

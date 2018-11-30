@@ -12,7 +12,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
 
     let data: [String: String] = ["冒泡排序" : "BubbleSort",
                                   "选择排序" : "SelectionSort",
-                                  "直接插入排序" : "InsertionSort"]
+                                  "直接插入排序" : "InsertionSort",
+                                  "快速排序" : "QuickSort"]
     
     @IBOutlet weak var tableView: UITableView!
     
