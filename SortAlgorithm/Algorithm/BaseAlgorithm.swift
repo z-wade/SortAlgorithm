@@ -32,7 +32,9 @@ class BaseAlgorithm {
         print("排序数量：\(data.count)")
         print(data)
         let beginTime = Date()
-        sort(array: &data)
+        if data.count > 1 {
+            sort(array: &data)
+        }
         let endTime = Date()
         let time = endTime.timeIntervalSince(beginTime) * 1000
         print(data)
