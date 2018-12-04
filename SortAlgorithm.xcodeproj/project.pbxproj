@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		47001D0121B4CF6600A5E44C /* ShellSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47001D0021B4CF6600A5E44C /* ShellSort.swift */; };
+		47001D0321B6711F00A5E44C /* MergeSort.swift in Sources */ = {isa = PBXBuildFile; fileRef = 47001D0221B6711F00A5E44C /* MergeSort.swift */; };
 		473E8E2A21297700009B6934 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E2921297700009B6934 /* AppDelegate.swift */; };
 		473E8E2C21297700009B6934 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 473E8E2B21297700009B6934 /* ViewController.swift */; };
 		473E8E2F21297700009B6934 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 473E8E2D21297700009B6934 /* Main.storyboard */; };
@@ -33,6 +34,7 @@
 
 /* Begin PBXFileReference section */
 		47001D0021B4CF6600A5E44C /* ShellSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShellSort.swift; sourceTree = "<group>"; };
+		47001D0221B6711F00A5E44C /* MergeSort.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MergeSort.swift; sourceTree = "<group>"; };
 		473E8E2621297700009B6934 /* SortAlgorithm.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SortAlgorithm.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		473E8E2921297700009B6934 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		473E8E2B21297700009B6934 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -118,6 +120,7 @@
 				473E8E502129BE0E009B6934 /* InsertionSort.swift */,
 				479F1316213ED9F0001E8F46 /* QuickSort.swift */,
 				47001D0021B4CF6600A5E44C /* ShellSort.swift */,
+				47001D0221B6711F00A5E44C /* MergeSort.swift */,
 			);
 			path = Algorithm;
 			sourceTree = "<group>";
@@ -229,6 +232,7 @@
 				479F1317213ED9F0001E8F46 /* QuickSort.swift in Sources */,
 				473E8E2A21297700009B6934 /* AppDelegate.swift in Sources */,
 				473E8E512129BE0E009B6934 /* InsertionSort.swift in Sources */,
+				47001D0321B6711F00A5E44C /* MergeSort.swift in Sources */,
 				473E8E4D212978EC009B6934 /* BubbleSort.swift in Sources */,
 				473E8E4F2129AEEB009B6934 /* SelectionSort.swift in Sources */,
 			);
