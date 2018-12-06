@@ -15,7 +15,8 @@ class ViewController: UIViewController, UITableViewDelegate, UITableViewDataSour
                                   "直接插入排序" : "InsertionSort",
                                   "快速排序" : "QuickSort",
                                   "希尔排序" : "ShellSort",
-                                  "归并排序" : "MergeSort"]
+                                  "归并排序" : "MergeSort",
+                                  "桶排序" : "BucketSort"]
     
     @IBOutlet weak var tableView: UITableView!
     
